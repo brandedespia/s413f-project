@@ -123,7 +123,18 @@ public class MainActivity extends AppCompatActivity {
 
         // Initialize Puzzle Continue button
         findViewById(R.id.Puz_Con_Btn).setOnClickListener(v -> {
-            Intent intent = new Intent(MainActivity.this, PuzzleActivity.class);
+            int currentPuzzleProgress = dbHelper.getPuzzleProgress();
+            Intent intent;
+
+            if (currentPuzzleProgress == 1) {
+                intent = new Intent(MainActivity.this, PuzzleActivity.class);
+            } else if (currentPuzzleProgress == 2) {
+                intent = new Intent(MainActivity.this, PuzzleActivity2.class);
+            } else {
+                Toast.makeText(MainActivity.this, "You've completed all available puzzles!", Toast.LENGTH_SHORT).show();
+                return;
+            }
+
             intent.putExtra("isNightMode", isNightMode);
             startActivity(intent);
         });
