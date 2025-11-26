@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/app/src/main/res/menu/menu.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/menu/menu.xml" />
+              <option name="originalContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;menu xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&gt;&#10;&#10;    &lt;item&#10;        android:id=&quot;@+id/menu_home&quot;&#10;        android:title=&quot;@string/menu_home&quot; /&gt;&#10;    &lt;item&#10;        android:id=&quot;@+id/menu_settings&quot;&#10;        android:title=&quot;@string/menu_settings&quot; /&gt;&#10;    &lt;item&#10;        android:id=&quot;@+id/menu_about&quot;&#10;        android:title=&quot;@string/menu_about&quot; /&gt;&#10;&lt;/menu&gt;" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;menu xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&gt;&#10;&#10;    &lt;item&#10;        android:id=&quot;@+id/menu_home&quot;&#10;        android:title=&quot;@string/menu_home&quot; /&gt;&#10;    &lt;item&#10;        android:id=&quot;@+id/menu_settings&quot;&#10;        android:title=&quot;@string/menu_settings&quot; /&gt;&#10;    &lt;item&#10;        android:id=&quot;@+id/menu_about&quot;&#10;        android:title=&quot;@string/menu_about&quot; /&gt;&#10;&lt;/menu&gt;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
