@@ -74,7 +74,14 @@
             android:id="@+id/Tut_select_Btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Select Lesson" />
+            android:text="Select Lesson"
+            android:layout_marginBottom="12dp" />
+
+        <Button
+            android:id="@+id/Tut_reset_Btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reset Tutorial Progress" />
     </LinearLayout>
 
     <!-- Puzzle 面板（占一半宽度） -->
@@ -114,7 +121,14 @@
             android:id="@+id/Puz_select_Btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Select Lesson" />
+            android:text="Select Puzzle"
+            android:layout_marginBottom="12dp" />
+
+        <Button
+            android:id="@+id/Puz_reset_Btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reset Puzzle Progress" />
     </LinearLayout>
 
 </LinearLayout>

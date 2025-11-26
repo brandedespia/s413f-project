@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from E:\S413F Project\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from E:\S413F Project\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from E:\S413F Project\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from E:\S413F Project\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from E:\S413F Project\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from E:\S413F Project\app\src\main\AndroidManifest.xml:2:1-54:12
 MERGED from [com.google.android.material:material:1.13.0] C:\Users\chen\.gradle\caches\8.13\transforms\0507d2f90fe1cea4beecf23da95f6c11\transformed\material-1.13.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\chen\.gradle\caches\8.13\transforms\ed9267c2f06c2be55b2e37706175211a\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\chen\.gradle\caches\8.13\transforms\b36d6092087128a58129702649a4bf84\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
@@ -54,8 +54,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\chen\.g
 	xmlns:android
 		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:5:5-24:19
-INJECTED from E:\S413F Project\app\src\main\AndroidManifest.xml:5:5-24:19
+ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:5:5-52:19
+INJECTED from E:\S413F Project\app\src\main\AndroidManifest.xml:5:5-52:19
 MERGED from [com.google.android.material:material:1.13.0] C:\Users\chen\.gradle\caches\8.13\transforms\0507d2f90fe1cea4beecf23da95f6c11\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.13.0] C:\Users\chen\.gradle\caches\8.13\transforms\0507d2f90fe1cea4beecf23da95f6c11\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\chen\.gradle\caches\8.13\transforms\ed9267c2f06c2be55b2e37706175211a\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
@@ -110,6 +110,62 @@ category#android.intent.category.LAUNCHER
 ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
 		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.a413projecthome.TutorialActivity
+ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:24:9-27:53
+	android:screenOrientation
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:27:13-50
+	android:exported
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:25:13-45
+activity#com.example.a413projecthome.TutorialActivity2
+ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:28:9-31:53
+	android:screenOrientation
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:31:13-50
+	android:exported
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:29:13-46
+activity#com.example.a413projecthome.TutorialActivity3
+ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:32:9-35:53
+	android:screenOrientation
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:35:13-50
+	android:exported
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:33:13-46
+activity#com.example.a413projecthome.LessonSelectActivity
+ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:36:9-39:53
+	android:screenOrientation
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:39:13-50
+	android:exported
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:37:13-49
+activity#com.example.a413projecthome.PuzzleActivity
+ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:40:9-43:53
+	android:screenOrientation
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:43:13-50
+	android:exported
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:41:13-43
+activity#com.example.a413projecthome.PuzzleActivity2
+ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:44:9-47:53
+	android:screenOrientation
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:47:13-50
+	android:exported
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:45:13-44
+activity#com.example.a413projecthome.PuzzleSelectActivity
+ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:48:9-51:53
+	android:screenOrientation
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:51:13-50
+	android:exported
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from E:\S413F Project\app\src\main\AndroidManifest.xml:49:13-49
 uses-sdk
 INJECTED from E:\S413F Project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\S413F Project\app\src\main\AndroidManifest.xml

@@ -1,5 +1,6 @@
 package com.example.a413projecthome;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.view.Gravity;
@@ -41,11 +42,19 @@ public class MainActivity extends AppCompatActivity {
     private TextView nightModeTitleTextView;
     private TextView nightModeDescTextView;
 
+    // Database helper
+    private DatabaseHelper dbHelper;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main);
+
+        // Initialize database
+        dbHelper = new DatabaseHelper(this);
+        // Trigger database creation by getting readable database
+        dbHelper.getReadableDatabase();
 
         View mainView = findViewById(R.id.main);
         if (mainView != null) {
@@ -61,8 +70,81 @@ public class MainActivity extends AppCompatActivity {
         tutorLayout = findViewById(R.id.Tutor_layout);
         puzzleLayout = findViewById(R.id.Puzzle_layout);
 
-        // Apply Night Mode theme on startup
-        applyTheme();
+        // Read progress from database and update TextViews
+        int[] progress = dbHelper.getProgress();
+        int tutorialProgress = progress[1]; // tprog
+        int puzzleProgress = progress[0]; // pprog
+
+        TextView tutProgressTextView = findViewById(R.id.Tut_progress);
+        TextView puzProgressTextView = findViewById(R.id.Puz_progress);
+
+        tutProgressTextView.setText("Your progress: " + tutorialProgress);
+        puzProgressTextView.setText("Your progress: " + puzzleProgress);
+
+        // Initialize Tutorial Continue button
+        findViewById(R.id.Tut_Con_Btn).setOnClickListener(v -> {
+            int currentTutorialProgress = dbHelper.getTutorialProgress();
+            Intent intent;
+
+            // Navigate based on tutorial progress
+            if (currentTutorialProgress == 1) {
+                intent = new Intent(MainActivity.this, TutorialActivity.class);
+            } else if (currentTutorialProgress == 2) {
+                intent = new Intent(MainActivity.this, TutorialActivity2.class);
+            } else if (currentTutorialProgress == 3) {
+                intent = new Intent(MainActivity.this, TutorialActivity3.class);
+            } else {
+                // If progress is beyond available lessons, show a message
+                Toast.makeText(MainActivity.this, "You've completed all available lessons!", Toast.LENGTH_SHORT).show();
+                return;
+            }
+
+            intent.putExtra("isNightMode", isNightMode);
+            startActivity(intent);
+        });
+
+        // Initialize Tutorial Select Lesson button
+        findViewById(R.id.Tut_select_Btn).setOnClickListener(v -> {
+            Intent intent = new Intent(MainActivity.this, LessonSelectActivity.class);
+            intent.putExtra("isNightMode", isNightMode);
+            startActivity(intent);
+        });
+
+        // Initialize Tutorial Reset Progress button
+        findViewById(R.id.Tut_reset_Btn).setOnClickListener(v -> {
+            // Reset tutorial progress to 1
+            dbHelper.updateTutorialProgress(1);
+            Toast.makeText(MainActivity.this, "Tutorial progress reset to 1", Toast.LENGTH_SHORT).show();
+
+            // Update the progress display immediately
+            TextView tutResetProgressTextView = findViewById(R.id.Tut_progress);
+            tutResetProgressTextView.setText("Your progress: 1");
+        });
+
+        // Initialize Puzzle Continue button
+        findViewById(R.id.Puz_Con_Btn).setOnClickListener(v -> {
+            Intent intent = new Intent(MainActivity.this, PuzzleActivity.class);
+            intent.putExtra("isNightMode", isNightMode);
+            startActivity(intent);
+        });
+
+        // Initialize Puzzle Select Lesson button
+        findViewById(R.id.Puz_select_Btn).setOnClickListener(v -> {
+            Intent intent = new Intent(MainActivity.this, PuzzleSelectActivity.class);
+            intent.putExtra("isNightMode", isNightMode);
+            startActivity(intent);
+        });
+
+        // Initialize Puzzle Reset Progress button
+        findViewById(R.id.Puz_reset_Btn).setOnClickListener(v -> {
+            // Reset puzzle progress to 1
+            dbHelper.updatePuzzleProgress(1);
+            Toast.makeText(MainActivity.this, "Puzzle progress reset to 1", Toast.LENGTH_SHORT).show();
+
+            // Update the progress display immediately
+            TextView puzResetProgressTextView = findViewById(R.id.Puz_progress);
+            puzResetProgressTextView.setText("Your progress: 1");
+        });
 
         // Initialize menu button
         ImageButton menuButton = findViewById(R.id.menu_btn);
@@ -72,6 +154,43 @@ public class MainActivity extends AppCompatActivity {
                 showPopupMenu(v);
             }
         });
+
+        // Check if we need to show Settings or About layout from intent
+        Intent intent = getIntent();
+        if (intent != null) {
+            // Check if isNightMode was passed from another activity
+            if (intent.hasExtra("isNightMode")) {
+                isNightMode = intent.getBooleanExtra("isNightMode", true);
+            }
+
+            boolean showSettings = intent.getBooleanExtra("showSettings", false);
+            boolean showAbout = intent.getBooleanExtra("showAbout", false);
+
+            if (showSettings) {
+                showSettingsLayout();
+            } else if (showAbout) {
+                showAboutLayout();
+            }
+        }
+
+        // Apply Night Mode theme after processing Intent extras
+        applyTheme();
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+
+        // Refresh progress display when returning from tutorial
+        int[] progress = dbHelper.getProgress();
+        int tutorialProgress = progress[1]; // tprog
+        int puzzleProgress = progress[0]; // pprog
+
+        TextView tutProgressTextView = findViewById(R.id.Tut_progress);
+        TextView puzProgressTextView = findViewById(R.id.Puz_progress);
+
+        tutProgressTextView.setText("Your progress: " + tutorialProgress);
+        puzProgressTextView.setText("Your progress: " + puzzleProgress);
     }
 
     private void showPopupMenu(View view) {
@@ -85,17 +204,17 @@ public class MainActivity extends AppCompatActivity {
 
                 if (itemId == R.id.menu_home) {
                     // Handle Home action
-                    Toast.makeText(MainActivity.this, "Home selected", Toast.LENGTH_SHORT).show();
+                    // Toast.makeText(MainActivity.this, "Home selected", Toast.LENGTH_SHORT).show();
                     showHomeLayout();
                     return true;
                 } else if (itemId == R.id.menu_settings) {
                     // Handle Settings action
-                    Toast.makeText(MainActivity.this, "Settings selected", Toast.LENGTH_SHORT).show();
+                    // Toast.makeText(MainActivity.this, "Settings selected", Toast.LENGTH_SHORT).show();
                     showSettingsLayout();
                     return true;
                 } else if (itemId == R.id.menu_about) {
                     // Handle About action
-                    Toast.makeText(MainActivity.this, "About selected", Toast.LENGTH_SHORT).show();
+                    // Toast.makeText(MainActivity.this, "About selected", Toast.LENGTH_SHORT).show();
                     showAboutLayout();
                     return true;
                 }

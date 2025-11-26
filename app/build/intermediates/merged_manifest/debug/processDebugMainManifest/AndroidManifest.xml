@@ -37,6 +37,34 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.a413projecthome.TutorialActivity"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.example.a413projecthome.TutorialActivity2"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.example.a413projecthome.TutorialActivity3"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.example.a413projecthome.LessonSelectActivity"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.example.a413projecthome.PuzzleActivity"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.example.a413projecthome.PuzzleActivity2"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.example.a413projecthome.PuzzleSelectActivity"
+            android:exported="false"
+            android:screenOrientation="landscape" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"

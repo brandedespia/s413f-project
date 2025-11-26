@@ -21,6 +21,34 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".TutorialActivity"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".TutorialActivity2"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".TutorialActivity3"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".LessonSelectActivity"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".PuzzleActivity"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".PuzzleActivity2"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".PuzzleSelectActivity"
+            android:exported="false"
+            android:screenOrientation="landscape" />
     </application>
 
 </manifest>

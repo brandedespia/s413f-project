@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tutorial_main_2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@color/dark_grey"
+    tools:context=".TutorialActivity2">
+
+    <!-- Menu Button Container -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout_for_menu_tutorial_2"
+        android:layout_width="73dp"
+        android:layout_height="73dp"
+        android:layout_gravity="left|clip_vertical"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:background="@drawable/blackcircle">
+
+        <ImageButton
+            android:id="@+id/menu_btn_tutorial_2"
+            android:layout_width="53dp"
+            android:layout_height="52dp"
+            android:adjustViewBounds="true"
+            android:background="?attr/selectableItemBackground"
+            android:scaleType="fitCenter"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/menu_btn" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!-- Tutorial Content Layout -->
+    <LinearLayout
+        android:id="@+id/tutorial_content_layout_2"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="48dp"
+        android:background="@color/light_grey">
+
+        <TextView
+            android:id="@+id/tutorial_title_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tutorial Lesson 2"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            android:gravity="center"
+            android:layout_marginBottom="32dp" />
+
+        <TextView
+            android:id="@+id/tutorial_description_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="In this lesson, you will learn advanced techniques.\n\nMaster the strategies to win!\n\nContinue to the next section."
+            android:textSize="18sp"
+            android:textColor="@android:color/white"
+            android:gravity="center"
+            android:layout_marginBottom="48dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/tutorial_back_btn_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Back"
+                android:textSize="16sp"
+                android:paddingStart="32dp"
+                android:paddingEnd="32dp"
+                android:layout_marginEnd="16dp" />
+
+            <Button
+                android:id="@+id/tutorial_next_btn_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Next"
+                android:textSize="16sp"
+                android:paddingStart="32dp"
+                android:paddingEnd="32dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
+
