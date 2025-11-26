@@ -3,9 +3,12 @@ local
 color black
 color dark__green
 color dark_green
+color dark_grey
+color light_grey
 color white
 drawable blackcircle
 drawable blank
+drawable border_layout
 drawable chun
 drawable haku
 drawable hatsu
@@ -60,7 +63,10 @@ id Tutor_title
 id constraintLayout_for_menu
 id imageView
 id main
+id menu_about
 id menu_btn
+id menu_home
+id menu_settings
 layout activity_main
 layout mahjong_tiles
 layout tutor
@@ -69,6 +75,9 @@ mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string app_name
+string menu_about
+string menu_home
+string menu_settings
 style Base.Theme._413ProjectHome
 style Theme._413ProjectHome
 xml backup_rules

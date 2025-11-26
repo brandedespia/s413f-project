@@ -1,8 +1,8 @@
-#Wed Nov 26 15:30:56 CST 2025
-base.0=C\:\\Users\\chen\\StudioProjects\\s413f-project\\s413f project\\413projecthome\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\chen\\StudioProjects\\s413f-project\\s413f project\\413projecthome\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\chen\\StudioProjects\\s413f-project\\s413f project\\413projecthome\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-base.3=C\:\\Users\\chen\\StudioProjects\\s413f-project\\s413f project\\413projecthome\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Wed Nov 26 16:58:38 CST 2025
+base.0=E\:\\S413F Project\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=E\:\\S413F Project\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=E\:\\S413F Project\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.3=E\:\\S413F Project\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=9/classes.dex

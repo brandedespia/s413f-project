@@ -1,306 +1,306 @@
 [
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable-xhdpi_menu_btn.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable-xhdpi\\menu_btn.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_man3.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\man3.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_pin2.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/pin2.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_pin4.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\pin4.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable-highdr_pngtree_menu_vector_icon_png_image_355811.jpg.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable-highdr/pngtree_menu_vector_icon_png_image_355811.jpg"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable-mdpi_blackcircle.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable-mdpi\\blackcircle.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_sou4.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\sou4.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_sou5_dora.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/sou5_dora.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_pin1.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\pin1.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_sou5.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/sou5.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_haku.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\haku.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_man4.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/man4.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_sou8.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\sou8.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/layout_mahjong_tiles.xml.flat",
+        "source": "com.example.a413projecthome.app-main-36:/layout/mahjong_tiles.xml"
+    },
+    {
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable-mdpi_blackcircle.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable-mdpi/blackcircle.png"
+    },
+    {
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_pin5.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/pin5.png"
     },
     {
         "merged": "com.example.a413projecthome.app-debug-34:/layout_activity_main.xml.flat",
         "source": "com.example.a413projecthome.app-main-36:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_chun.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/chun.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+        "merged": "com.example.a413projecthome.app-debug-34:/layout_tutor.xml.flat",
+        "source": "com.example.a413projecthome.app-main-36:/layout/tutor.xml"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_man7.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/man7.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_pin8.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\pin8.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_hatsu.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/hatsu.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable-mdpi_menu_btn.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable-mdpi/menu_btn.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_sou1.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\sou1.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable-anydpi_menu_btn.xml.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable-anydpi/menu_btn.xml"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_pin5.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\pin5.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_man9.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\man9.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_sou6.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/sou6.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_man2.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\man2.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable-hdpi_blackcircle.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable-hdpi/blackcircle.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_chun.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\chun.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable-xxhdpi_menu_btn.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable-xxhdpi/menu_btn.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_pin9.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\pin9.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_man5_dora.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/man5_dora.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_pin6.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/pin6.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable-anydpi_blackcircle.xml.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable-anydpi\\blackcircle.xml"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_nan.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/nan.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable-xhdpi_blackcircle.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable-xhdpi/blackcircle.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_sou5.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\sou5.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_shaa.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\shaa.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_sou2.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/sou2.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_man6.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\man6.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/xml_backup_rules.xml.flat",
+        "source": "com.example.a413projecthome.app-main-36:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_pin2.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\pin2.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_man3.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/man3.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\menu_menu.xml.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\menu\\menu.xml"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable-xxhdpi_blackcircle.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable-xxhdpi/blackcircle.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\layout_mahjong_tiles.xml.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\layout\\mahjong_tiles.xml"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_shaa.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/shaa.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_border_layout.xml.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/border_layout.xml"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_sou2.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\sou2.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_sou9.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/sou9.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_pin9.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/pin9.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_man8.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\man8.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-mdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_pin6.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\pin6.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_ton.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/ton.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\xml\\backup_rules.xml"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_man1.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\man1.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.a413projecthome.app-main-36:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_pngtree_menu_vector_icon_png_image_355811.jpg.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\pngtree_menu_vector_icon_png_image_355811.jpg"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_man6.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/man6.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_man5_dora.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\man5_dora.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_sou7.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/sou7.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_pei.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/pei.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable-highdr_pngtree_menu_vector_icon_png_image_355811.jpg.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable-highdr\\pngtree_menu_vector_icon_png_image_355811.jpg"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_sou3.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/sou3.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_sou9.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\sou9.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_man9.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/man9.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable-xhdpi_blackcircle.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable-xhdpi\\blackcircle.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/menu_menu.xml.flat",
+        "source": "com.example.a413projecthome.app-main-36:/menu/menu.xml"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\layout_tutor.xml.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\layout\\tutor.xml"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable-xxhdpi_menu_btn.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable-xxhdpi\\menu_btn.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-xxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_pin8.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/pin8.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_sou6.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\sou6.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-xhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_man5.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\man5.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_pin3.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/pin3.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_blank.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\blank.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_man2.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/man2.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable-hdpi_menu_btn.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable-hdpi\\menu_btn.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable-anydpi_blackcircle.xml.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable-anydpi/blackcircle.xml"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_haku.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/haku.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_man5.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/man5.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_sou3.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\sou3.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable-xhdpi_menu_btn.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable-xhdpi/menu_btn.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_ton.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\ton.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable-anydpi_menu_btn.xml.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable-anydpi\\menu_btn.xml"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_sou8.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/sou8.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable-mdpi_menu_btn.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable-mdpi\\menu_btn.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_man7.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\man7.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_sou1.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/sou1.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable-hdpi_blackcircle.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable-hdpi\\blackcircle.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_pin1.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/pin1.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_pin3.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\pin3.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_pngtree_menu_vector_icon_png_image_355811.jpg.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/pngtree_menu_vector_icon_png_image_355811.jpg"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_pei.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\pei.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_blank.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/blank.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_sou5_dora.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\sou5_dora.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_man1.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/man1.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable-xxhdpi_blackcircle.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable-xxhdpi\\blackcircle.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_pin7.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/pin7.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\layout\\activity_main.xml"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable-hdpi_menu_btn.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable-hdpi/menu_btn.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_man4.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\man4.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_sou4.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/sou4.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_pin5_dora.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/pin5_dora.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_hatsu.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\hatsu.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-hdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_pin7.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\pin7.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.a413projecthome.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_nan.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\nan.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_pin4.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/pin4.png"
     },
     {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_sou7.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\sou7.png"
-    },
-    {
-        "merged": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-debug-34:\\drawable_pin5_dora.png.flat",
-        "source": "C:\\Users\\chen\\.gradle\\daemon\\8.13\\com.example.a413projecthome.app-main-36:\\drawable\\pin5_dora.png"
+        "merged": "com.example.a413projecthome.app-debug-34:/drawable_man8.png.flat",
+        "source": "com.example.a413projecthome.app-main-36:/drawable/man8.png"
     }
 ]

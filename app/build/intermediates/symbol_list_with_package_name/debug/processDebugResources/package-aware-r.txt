@@ -1532,6 +1532,7 @@ color cardview_shadow_end_color
 color cardview_shadow_start_color
 color dark__green
 color dark_green
+color dark_grey
 color design_bottom_navigation_shadow_color
 color design_box_stroke_color
 color design_dark_default_color_background
@@ -1580,6 +1581,7 @@ color foreground_material_dark
 color foreground_material_light
 color highlighted_text_material_dark
 color highlighted_text_material_light
+color light_grey
 color m3_appbar_overlay_color
 color m3_assist_chip_icon_tint_color
 color m3_assist_chip_stroke_color
@@ -3544,6 +3546,7 @@ drawable avd_hide_password
 drawable avd_show_password
 drawable blackcircle
 drawable blank
+drawable border_layout
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -3985,7 +3988,10 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id matrix
+id menu_about
 id menu_btn
+id menu_home
+id menu_settings
 id message
 id middle
 id mini
@@ -4528,6 +4534,9 @@ string material_timepicker_minute
 string material_timepicker_pm
 string material_timepicker_select_time
 string material_timepicker_text_input_mode_description
+string menu_about
+string menu_home
+string menu_settings
 string mtrl_badge_numberless_content_description
 string mtrl_button_collapsed_content_description
 string mtrl_button_expanded_content_description
